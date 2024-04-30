@@ -282,6 +282,7 @@ You need to change the username accoringly in the below command
 
 ```
 docker build -t abhishekf5/my-first-docker-image:latest .
+OR use this -->  docker build -t image-name:latest .
 ```
 
 Output of the above command
